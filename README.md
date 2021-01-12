@@ -1,0 +1,2 @@
+# DIUST
+THIS IS A STUDY.
